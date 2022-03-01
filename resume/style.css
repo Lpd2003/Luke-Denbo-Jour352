@@ -23,29 +23,28 @@ min-width: 300px;
 margin: 0 auto;
 }
 
-strong {
-
+.title {
 text-transform: uppercase;
 text-align: center;
 font-size: 1.5em;
-
+font-weight: 600;
 
 
 }
 
 .sectionheader {
-font-size: 1.5 em;
+font-size: 1.5em;
 text-transform: uppercase;
 color: white;
 font-weight: 400;
 background-color: #33485e;
 margin-top: 10px;
-margin-bottom: 20px;
+margin-bottom: 10px;
 margin-left: 0px;
 margin-right: 0px;
 width: 70%;
 min-width: 300px;
-margin: 0 auto;
+/* margin: 0 auto; */
 
 }
 
@@ -56,10 +55,13 @@ font-size: 2em;
 
 }
 
-h4 {
+.organization {
 font-weight: 400;
 font-size: 1.5em;
-
+margin-top: 10px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
 
 }
 
@@ -68,5 +70,13 @@ font-weight: 400;
 font-size: 1em;
 font-style: italic;
 
+
+}
+
+  .degrees {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 
 }
