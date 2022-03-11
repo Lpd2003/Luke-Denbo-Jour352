@@ -1,0 +1,23 @@
+
+.image {
+
+
+width: 100%;
+max-width: 500px;
+
+
+}
+
+.button {
+
+  margin-top: 25px;
+  margin: 0 auto;
+
+
+}
+
+.navbar, .btn, h2, h1 {
+
+  font-family: "Special Elite", serif;
+
+}
