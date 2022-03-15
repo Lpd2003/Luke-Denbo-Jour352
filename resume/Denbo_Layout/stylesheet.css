@@ -11,3 +11,46 @@ font-style: italic;
 color: blue;
 
 }
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+p {
+font-family: Georgia;
+font-size: 13px;
+
+}
+
+.image {
+width:100%;
+max-width: 900px;
+
+}
+
+.gif {
+width:80%;
+max-width: 800px;
+
+}
+
+.pagetopper {
+width:100%;
+
+}
+
+h1 {
+font-size: 3em;
+color: red;
+font-style: bold;
+font-family: "Times New Roman", serif;
+
+}
+
+.caption {
+font-style: italic;
+
+  
+}
