@@ -2,26 +2,19 @@
 margin: 0 auto;
 width: 900px;
 
-
 }
 
-blockquote {
-font: 16px;
-font-style: italic;
-color: blue;
-
-}
 
 #byline {
 font-family: Helvetica, sans-serif;
-font-size: 14px;
+font-size: 16px;
 font-style: italic;
+text-align: center;
 }
 
 p {
-font-family: Georgia;
 font-size: 13px;
-
+font-family: Helvetica, sans-serif;
 }
 
 .image {
@@ -30,20 +23,22 @@ max-width: 900px;
 
 }
 
-.gif {
-width:80%;
-max-width: 800px;
+h1{
+text-align: center;
+}
 
 }
 
 .pagetopper {
 width:100%;
+text-align: center;
+margin: 0 auto;
 
 }
 
 h1 {
-font-size: 3em;
-color: red;
+font-size: 2.5em;
+color: #9386EE;
 font-style: bold;
 font-family: "Times New Roman", serif;
 
@@ -51,6 +46,55 @@ font-family: "Times New Roman", serif;
 
 .caption {
 font-style: italic;
+font-size: 16px;
+font-family: "Times New Roman", serif;
+text-align: center;
+}
 
-  
+blockquote {
+font-style: italic;
+color: blue;
+font-size: 1.5em;
+
+}
+
+h2 {
+font-size: 1.25em;
+color:purple;
+
+}
+
+.Image1 {
+width: 50%;
+text-align: center;
+
+}
+
+.Image2 {
+width:40%;
+
+
+}
+
+.Image3 {
+width:40%;
+
+
+}
+
+.Image4 {
+width:40%;
+
+}
+
+.Image0{
+width:60%;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
