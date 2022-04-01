@@ -8,8 +8,8 @@
 .byline {
   font-size:1em;
   text-transform: uppercase;
-  font-family: 'Helvetica';
-  text-align:center;
+  font-family: 'Helvetica', sans-serif;
+  text-align: center;
 
 }
 
