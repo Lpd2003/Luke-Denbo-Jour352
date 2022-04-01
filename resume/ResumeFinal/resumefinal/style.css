@@ -1,0 +1,105 @@
+.head {
+
+font-family: 'Helvetica', sans-serif;
+
+}
+
+.sectionheader {
+  font-style: bold;
+  font-size: 2em;
+  font-family: Helvetica;
+  font-size:
+}
+
+.topnav {
+  text-align: right;
+  font-size: 40px;
+}
+
+body {
+  background-color: #87CEFA;
+}
+
+img {
+text-align: center;
+size: 300px;
+
+}
+
+.pagetopper {
+
+width:100%;
+text-align: right;
+margin: 0 auto;
+
+}
+
+.description {
+font-family: Helvetica;
+font-size: 1.25em;
+
+}
+
+.jobtitle {
+font-family: Helvetica;
+font-size: 1.5em;
+font-style: italic;
+padding-top: 1.3em;
+
+}
+
+.organization {
+font-family: Helvetica;
+font-size: 1.5em;
+font-style: Bold;
+color: #00008B
+
+}
+
+.edu {
+font-family: Helvetica;
+font-size: 2em;
+
+
+}
+
+.contact {
+font-family: Helvetica;
+font-size: 4em;
+
+
+}
+
+.h3 {
+font-family: Helvetica;
+font-size: 1.25em;
+
+
+}
+
+.li {
+list-style-type: : none;
+
+
+}
+
+.container {
+max-width: 1000px;
+width: 100%;
+text-align: center;
+margin: 0 auto;
+
+}
+
+.bi {
+font-size: 10em;
+
+
+}
+.skills {
+font-size: 1.75em;
+font-family: Helvetica;
+list-style-type: none;
+
+
+}
