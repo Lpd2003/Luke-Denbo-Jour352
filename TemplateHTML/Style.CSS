@@ -1,0 +1,49 @@
+.headline {
+  font-size: 3em;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Helvetica';
+}
+
+.byline {
+  font-size:1em;
+  text-transform: uppercase;
+  font-family: 'Helvetica';
+  text-align:center;
+
+}
+
+p {
+  font-family: 'Helvetica';
+  line-height: 100%;
+
+}
+
+h1 {
+  font-style: bold;
+
+}
+
+.Nats {
+  width: 400px;
+  text-align: center;
+
+}
+
+.container {
+  width: 100%;
+
+}
+
+figure {
+  font-family: 'Helvetica';
+
+}
+
+footer {
+  font-family: 'Helvetica';
+  background-color: black;
+  color: white;
+  text-align: center;
+
+}
