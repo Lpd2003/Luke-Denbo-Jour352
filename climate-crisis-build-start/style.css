@@ -152,10 +152,25 @@ background: black !important;
 }
 
 .sidebar {
-  font-style: normal;
   color: purple;
+  border-style: dotted;
+  padding: 20px;
 
 }
+
+a:link {
+    color: #ff0000;
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+a:visited {
+    color: #ff00ff;
+}
+
+a:hover {
+    color: #00ff00;
+    border-bottom: none;
 
 @media(max-width:650px) {
   p {
@@ -165,6 +180,7 @@ background: black !important;
 
   .chapter-head {
     font-size:1.25em;
+
   }
 
   .hed {
