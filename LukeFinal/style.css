@@ -1,6 +1,18 @@
+.pagetopper {
+  width:100%;
+
+}
+
+.sectionheader {
+  font-size: 2.5em;
+  font-family: 'Helvetica';
+  color: #00008B;
+}
+
 .headline {
   font-size: 3em;
   font-weight: 700;
+  color: red;
   text-align: center;
   font-family: 'Helvetica';
 }
@@ -18,7 +30,8 @@
   font-size: 1em;
   font-family: 'Helvetica', sans-serif;
   text-align: center;
-  color: red;
+  color: #00008B;
+
 }
 
 
@@ -41,14 +54,12 @@ p {
   margin-bottom: 20px;
 }
 
-.wsstory {
-  font-style: italic;
-
-}
-
 .img {
-width: 500px;
+width: 100%;
 margin:0 auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
 
 }
 
@@ -78,13 +89,14 @@ h1 {
 .container {
   width: 100%;
   max-width: 900px;
-  
+
 }
 
 figure {
   font-family: 'Helvetica';
 
 }
+
 
 footer {
   font-family: 'Helvetica';
